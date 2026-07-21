@@ -6,7 +6,7 @@
 
 O **Nico** é um agente inteligente de educação financeira desenvolvido como projeto prático para a plataforma **DIO (Digital Innovation One)**. Ele atua como um copiloto conversacional proativo, consumindo dados locais para transformar tabelas áridas de gastos e investimentos em planos de ação educacionais, simples e altamente personalizados.
 
-<img width="1920" height="1107" alt="image" src="meu agente/screen01.jpg" />
+<img width="1920" height="1107" alt="image" src="screen01.jpg" />
 
 ---
 

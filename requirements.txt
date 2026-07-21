@@ -1,0 +1,11 @@
+# Manipulação e análise de dados
+pandas>=2.2.0
+
+# Requisições HTTP e consumo de APIs
+requests>=2.31.0
+
+# Criação de interfaces web e dashboards
+streamlit>=1.35.0
+
+# Integração com a API de IA da Groq
+groq>=0.9.0
